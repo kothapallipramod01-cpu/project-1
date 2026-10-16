@@ -76,7 +76,7 @@ These are observed gaps from this session, not a general judgement of ability.
 4. **Shape reasoning:** `.shape[0]` is rows; `.shape[1]` is columns.
 5. **Validation design:** each descriptor needs a suitable rule.
 6. **Scientific interpretation:** state exactly what a check proves—and what it does not.
-7. **Data realism:** do not use toy values as real chemical evidence.
+   
 
 ## Extra NumPy topics needed next
 
